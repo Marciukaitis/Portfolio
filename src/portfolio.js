@@ -26,7 +26,7 @@ const projects = [
   {
     name: 'To Do List',
     description:
-      'Se trata de una clásica pero efectiva aplicación de tareas, en la cual podemos anotar distintas actividades que nos interese realizar. Estas tareas están pendientes hasta que las completemos. ',
+      'Se trata de una aplicación de tareas, que incluye un proceso de registro (sign up) y un inicio de sesión (login) con sus respectivas validaciones. En ella, los usuarios pueden registrar diversas actividades que desean realizar. Estas tareas permanecen pendientes hasta que sean completadas.',
     stack: ['HTML 5', 'CSS', 'JavaScript'],
     sourceCode: 'https://github.com/Marciukaitis/To-Do',
     livePreview: 'https://to-do-ebon-eta.vercel.app/signup.html',
@@ -35,15 +35,15 @@ const projects = [
   {
     name: 'BackEnd',
     description:
-      'Consiste en una aplicacion la cual se maneja las operaciones de un CRUD con sus respectivo control de errores, conectada a una base de datos y con sus test unitarios.',
-    stack: ['JAVA', 'SpringBoot', 'CSS','JavaScript'],
+      'La aplicación consiste en un sistema que gestiona las operaciones de un CRUD con el correspondiente control de errores, estando conectada a una base de datos. Además, incluye la implementación de pruebas unitarias para garantizar el correcto funcionamiento de sus funcionalidades.',
+    stack: ['Java', 'SpringBoot', 'CSS','JavaScript'],
     sourceCode: 'https://github.com/Marciukaitis/Dentist-Java',
     
   },
 ]
 
 const skills = [
-  'JAVA',
+  'Java',
   'HTML',
   'CSS',
   'JavaScript',

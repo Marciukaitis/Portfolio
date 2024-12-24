@@ -7,6 +7,7 @@ const about = {
   
   name: 'Micaela',
   role: 'Full Stack Developer',
+  description: " En búsqueda de mi primera oportunidad en el mundo del desarrollo de software.",
   resume: 'https://docs.google.com/document/d/1gyvottuN1XU4h7Yt9_C-rtYitRqCXRIzxZEplqc9Onw/edit?tab=t.0',
   social: {
     linkedin: 'https://www.linkedin.com/in/micaela-marciukaitis-870025152/',

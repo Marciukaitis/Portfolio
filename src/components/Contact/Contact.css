@@ -1,0 +1,6 @@
+.contact {
+  flex-direction: column;
+}
+.btn.btn--outline {
+  color: var(--btn-color);
+}

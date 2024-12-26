@@ -2,7 +2,6 @@
   flex-direction: column;
   margin-top: 3em;
 }
-
 .about__name {
   color: rgb(209, 122, 243)
 }
@@ -34,8 +33,9 @@
     align-items: flex-start;
     margin-top: 2em;
   }
-  .about__contact{
+  /* .about__contact{
     margin-left: auto;
     margin-right: auto;
-  }
+  } */
+  
 }
